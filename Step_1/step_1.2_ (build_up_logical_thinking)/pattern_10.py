@@ -1,7 +1,7 @@
 """
     Problem Statement: Given an integer N, print the following pattern.
     
-    PATTERN 9 : 
+    PATTERN 10 : 
         Input Format: N = 3
         Result: 
             *  
